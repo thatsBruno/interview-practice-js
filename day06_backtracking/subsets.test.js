@@ -1,6 +1,10 @@
 const subsets = require('./subsets');
 
-test('subsets basic test', () => {
-    // TODO: add tests
-    expect(subsets()).toBeDefined();
+test('subsets returns all subsets for [1,2,3]', () => {
+    const result = subsets([1,2,3]);
+    expect(result).toEqual(
+        expect.arrayContaining([
+            [], [1], [2], [3], [1,2], [1,3], [2,3], [1,2,3]
+        ])
+    );
 });

@@ -1,6 +1,7 @@
 const encodeDecodeStrings = require('./encodeDecodeStrings');
 
-test('encodeDecodeStrings basic test', () => {
-    // TODO: add tests
-    expect(encodeDecodeStrings()).toBeDefined();
+test('encodeDecodeStrings encodes and decodes correctly', () => {
+    const strs = ["lint","code","love","you"];
+    const encoded = encodeDecodeStrings.encode(strs);
+    expect(encodeDecodeStrings.decode(encoded)).toEqual(strs);
 });

@@ -1,7 +1,6 @@
 /**
  * Problem: maxSubarray
- * Description: Implement the `maxSubarray` function.
- * Hint: Check the README in this folder for guidance.
+ * Description: Given an integer array nums, find the contiguous subarray (containing at least one number) which has the largest sum and return its sum.
  */
 
 function maxSubarray(nums) {

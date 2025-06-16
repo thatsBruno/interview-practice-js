@@ -1,7 +1,13 @@
 /**
- * Problem: permutations
- * Description: Implement the `permutations` function.
- * Hint: Check the README in this folder for guidance.
+ * Problem: Permutations
+ * LeetCode: https://leetcode.com/problems/permutations/
+ *
+ * Given an array nums of distinct integers, return all the possible permutations. You can return the answer in any order.
+ *
+ * Constraints:
+ * - 1 <= nums.length <= 6
+ * - -10 <= nums[i] <= 10
+ * - All the integers of nums are unique.
  */
 
 function permutations(nums) {

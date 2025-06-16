@@ -1,7 +1,14 @@
 /**
- * Problem: subsets
- * Description: Implement the `subsets` function.
- * Hint: Check the README in this folder for guidance.
+ * Problem: Subsets
+ * LeetCode: https://leetcode.com/problems/subsets/
+ *
+ * Given an integer array nums of unique elements, return all possible subsets (the power set).
+ * The solution set must not contain duplicate subsets. Return the solution in any order.
+ *
+ * Constraints:
+ * - 1 <= nums.length <= 10
+ * - -10 <= nums[i] <= 10
+ * - All the numbers of nums are unique.
  */
 
 function subsets(nums) {

@@ -1,7 +1,6 @@
 /**
  * Problem: validAnagram
- * Description: Implement the `validAnagram` function.
- * Hint: Check the README in this folder for guidance.
+ * Description: Given two strings s and t, return true if t is an anagram of s, and false otherwise.
  */
 
 function validAnagram(s, t) {

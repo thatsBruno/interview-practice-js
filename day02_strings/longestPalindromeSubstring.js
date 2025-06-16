@@ -1,7 +1,6 @@
 /**
  * Problem: longestPalindromeSubstring
- * Description: Implement the `longestPalindromeSubstring` function.
- * Hint: Check the README in this folder for guidance.
+ * Description: Given a string s, return the longest palindromic substring in s.
  */
 
 function longestPalindromeSubstring(s) {

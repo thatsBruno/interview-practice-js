@@ -1,7 +1,12 @@
 /**
- * Problem: hammingDistance
- * Description: Implement the `hammingDistance` function.
- * Hint: Check the README in this folder for guidance.
+ * Problem: Hamming Distance
+ * LeetCode: https://leetcode.com/problems/hamming-distance/
+ *
+ * The Hamming distance between two integers is the number of positions at which the corresponding bits are different.
+ * Given two integers x and y, return the Hamming distance between them.
+ *
+ * Constraints:
+ * - 0 <= x, y <= 2^31 - 1
  */
 
 function hammingDistance(x, y) {

@@ -1,7 +1,7 @@
 /**
  * Problem: longestConsecutive
- * Description: Implement the `longestConsecutive` function.
- * Hint: Check the README in this folder for guidance.
+ * Description: Given an unsorted array of integers nums, return the length of the longest consecutive elements sequence.
+ * You must write an algorithm that runs in O(n) time.
  */
 
 function longestConsecutive(nums) {

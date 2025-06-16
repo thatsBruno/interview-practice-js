@@ -10,4 +10,4 @@ function twoSum(nums, target) {
   return 1;
 }
 
-export default twoSum;
+module.exports = twoSum;

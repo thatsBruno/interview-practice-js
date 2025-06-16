@@ -4,7 +4,7 @@
  * Hint: Check the README in this folder for guidance.
  */
 
-function nonOverlappingIntervals(/* parameters */) {
+function nonOverlappingIntervals(intervals) {
     // TODO: implement
 }
 

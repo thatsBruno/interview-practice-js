@@ -4,7 +4,7 @@
  * Hint: Check the README in this folder for guidance.
  */
 
-function maxSubarray(/* parameters */) {
+function maxSubarray(nums) {
     // TODO: implement
 }
 

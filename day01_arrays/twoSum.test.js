@@ -1,6 +1,6 @@
-const twoSum = require('./twoSum');
+import twoSum from './twoSum';
 
 test('twoSum basic test', () => {
-    // TODO: add tests
-    expect(twoSum()).toBeDefined();
+  // TODO: add tests
+  expect(twoSum()).toBeDefined();
 });

@@ -4,7 +4,7 @@
  * Hint: Check the README in this folder for guidance.
  */
 
-function jumpGameII(/* parameters */) {
+function jumpGameII(nums) {
     // TODO: implement
 }
 

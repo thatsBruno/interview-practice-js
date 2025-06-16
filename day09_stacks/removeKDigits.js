@@ -4,7 +4,7 @@
  * Hint: Check the README in this folder for guidance.
  */
 
-function removeKDigits(/* parameters */) {
+function removeKDigits(num, k) {
     // TODO: implement
 }
 

@@ -4,7 +4,7 @@
  * Hint: Check the README in this folder for guidance.
  */
 
-function groupAnagrams(/* parameters */) {
+function groupAnagrams(strs) {
     // TODO: implement
 }
 

@@ -4,7 +4,7 @@
  * Hint: Check the README in this folder for guidance.
  */
 
-function validAnagram(/* parameters */) {
+function validAnagram(s, t) {
     // TODO: implement
 }
 

@@ -4,7 +4,7 @@
  * Hint: Check the README in this folder for guidance.
  */
 
-function validateBST(/* parameters */) {
+function validateBST(root) {
     // TODO: implement
 }
 

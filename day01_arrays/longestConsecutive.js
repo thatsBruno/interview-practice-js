@@ -4,7 +4,7 @@
  * Hint: Check the README in this folder for guidance.
  */
 
-function longestConsecutive(/* parameters */) {
+function longestConsecutive(nums) {
     // TODO: implement
 }
 

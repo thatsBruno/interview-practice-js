@@ -4,7 +4,7 @@
  * Hint: Check the README in this folder for guidance.
  */
 
-function cloneGraph(/* parameters */) {
+function cloneGraph(node) {
     // TODO: implement
 }
 

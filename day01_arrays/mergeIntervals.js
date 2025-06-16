@@ -4,7 +4,7 @@
  * Hint: Check the README in this folder for guidance.
  */
 
-function mergeIntervals(/* parameters */) {
+function mergeIntervals(intervals) {
     // TODO: implement
 }
 

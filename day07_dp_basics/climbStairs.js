@@ -4,7 +4,7 @@
  * Hint: Check the README in this folder for guidance.
  */
 
-function climbStairs(/* parameters */) {
+function climbStairs(n) {
     // TODO: implement
 }
 

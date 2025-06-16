@@ -4,7 +4,7 @@
  * Hint: Check the README in this folder for guidance.
  */
 
-function productExceptSelf(/* parameters */) {
+function productExceptSelf(nums) {
     // TODO: implement
 }
 

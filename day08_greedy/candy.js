@@ -4,7 +4,7 @@
  * Hint: Check the README in this folder for guidance.
  */
 
-function candy(/* parameters */) {
+function candy(ratings) {
     // TODO: implement
 }
 

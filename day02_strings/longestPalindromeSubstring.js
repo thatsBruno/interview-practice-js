@@ -4,7 +4,7 @@
  * Hint: Check the README in this folder for guidance.
  */
 
-function longestPalindromeSubstring(/* parameters */) {
+function longestPalindromeSubstring(s) {
     // TODO: implement
 }
 

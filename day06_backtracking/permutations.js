@@ -4,7 +4,7 @@
  * Hint: Check the README in this folder for guidance.
  */
 
-function permutations(/* parameters */) {
+function permutations(nums) {
     // TODO: implement
 }
 

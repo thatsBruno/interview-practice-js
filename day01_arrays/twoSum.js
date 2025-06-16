@@ -4,8 +4,9 @@
  * Hint: Check the README in this folder for guidance.
  */
 
-function twoSum(/* parameters */) {
-    // TODO: implement
+function twoSum(nums, target) {
+  // TODO: implement
+  return 1;
 }
 
-module.exports = twoSum;
+export default twoSum;

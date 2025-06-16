@@ -4,7 +4,7 @@
  * Hint: Check the README in this folder for guidance.
  */
 
-function lcaBST(/* parameters */) {
+function lcaBST(root, p, q) {
     // TODO: implement
 }
 

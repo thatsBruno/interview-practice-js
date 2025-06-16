@@ -4,7 +4,7 @@
  * Hint: Check the README in this folder for guidance.
  */
 
-function minWindowSubstring(/* parameters */) {
+function minWindowSubstring(s, t) {
     // TODO: implement
 }
 

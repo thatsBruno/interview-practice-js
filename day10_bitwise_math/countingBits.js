@@ -4,7 +4,7 @@
  * Hint: Check the README in this folder for guidance.
  */
 
-function countingBits(/* parameters */) {
+function countingBits(n) {
     // TODO: implement
 }
 

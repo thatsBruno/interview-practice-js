@@ -4,7 +4,7 @@
  * Hint: Check the README in this folder for guidance.
  */
 
-function invertTree(/* parameters */) {
+function invertTree(root) {
     // TODO: implement
 }
 

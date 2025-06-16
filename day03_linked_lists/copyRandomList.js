@@ -4,7 +4,7 @@
  * Hint: Check the README in this folder for guidance.
  */
 
-function copyRandomList(/* parameters */) {
+function copyRandomList(head) {
     // TODO: implement
 }
 

@@ -1,10 +1,12 @@
 const numberOfIslands = require('./numberOfIslands');
 
-test('numberOfIslands basic test', () => {
-    // TODO: add tests
-    expect(numberOfIslands()).toBeDefined();
-});
+describe('numberOfIslands', () => {
+    test('basic test', () => {
+        // TODO: add tests
+        expect(numberOfIslands()).toBeDefined();
+    });
 
-test('numberOfIslands returns 0 for empty grid', () => {
-    expect(numberOfIslands([])).toBe(0);
+    test('returns 0 for empty grid', () => {
+        expect(numberOfIslands([])).toBe(0);
+    });
 });

@@ -1,10 +1,12 @@
 const diameterOfBinaryTree = require('./diameterOfBinaryTree');
 
-test('diameterOfBinaryTree basic test', () => {
-    // TODO: add tests
-    expect(diameterOfBinaryTree()).toBeDefined();
-});
+describe('diameterOfBinaryTree', () => {
+    test('basic test', () => {
+        // TODO: add tests
+        expect(diameterOfBinaryTree()).toBeDefined();
+    });
 
-test('diameterOfBinaryTree returns 0 for null', () => {
-    expect(diameterOfBinaryTree(null)).toBe(0);
+    test('returns 0 for null', () => {
+        expect(diameterOfBinaryTree(null)).toBe(0);
+    });
 });
